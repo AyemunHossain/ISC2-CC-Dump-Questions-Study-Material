@@ -1,4 +1,5 @@
-Questions and Answers
+### Questions and Answers
+
 1. A cyberattacker changes the website of a pharmacy so it displays
 incorrect information about COVID testing. This is an example of
 what kind of compromise?
@@ -195,7 +196,7 @@ would be the ethical response to this situation.
 
 
 
-1. Jane is a security administrator setting up access for a new employee
+16. Jane is a security administrator setting up access for a new employee
 who works in the manufacturing department. Jane makes sure to
 enable the employee’s access for the manufacturing area but not for
 the parts storage area. What best describes the principle Jane is
@@ -209,7 +210,7 @@ ANS: D. Least privilege is the most correct answer. By giving the
 employee access to the area the employee requires access to but no
 more, Jane is applying the principle of least privilege.
 
-2. Which statement best describes the relationship between subjects,
+17. Which statement best describes the relationship between subjects,
 objects, and rules?
 A. A subject grants access to an object based on rules.
 B. An object is granted access to a subject based on rules.
@@ -219,7 +220,7 @@ D. An object is granted access to a subject based on credentials.
 ANS: C. After first requesting access, a subject gets access to an object
 based on rules.
 
-3. Credentials are composed of which of the following elements?
+18. Credentials are composed of which of the following elements?
 A. Username and password
 B. Authorization and accountability
 C. Something you know and something you have
@@ -229,7 +230,7 @@ ANS: A. Identification (commonly a username, ID, or account number)
 and authentication (commonly a password, PIN, or token) are
 typically used in combination and are called credentials.
 
-4. Joe has to log in to many systems on a daily basis and has too many
+19. Joe has to log in to many systems on a daily basis and has too many
 passwords to remember. What is the best way for Joe to manage his
 passwords?
 A. Write the passwords down on a piece of paper.
@@ -243,7 +244,7 @@ software to manage passwords. These products require credentials to
 log in and protect the passwords with encryption and good access
 control. None of the other answers provide a secure solution.
 
-5. Debby has been an employee of Acme Corp. for over 20 years.
+20. Debby has been an employee of Acme Corp. for over 20 years.
 During that time, she has been able to access more and more systems.
 Now she has access to systems she doesn’t even need access to in
 order to do her job. This is an example of what type of situation?
@@ -256,7 +257,7 @@ ANS: D. The situation described is an example of privilege creep, where
 over time a person’s access increases beyond that which they require
 to do their job.
 
-6. The identity and access management lifecycle consists of which
+21. The identity and access management lifecycle consists of which
 steps?
 A. Provisioning, review, revocation
 B. Setup, review, auditing
@@ -266,7 +267,7 @@ D. Identification, authentication, authorization
 ANS: A. The identity and access management lifecycle consists of
 provisioning, review, and revocation steps.
 
-7. Which of the following access control models leverages roles to
+22. Which of the following access control models leverages roles to
 provision access, where users with similar access needs are assigned
 to the same role?
 A. DAC
@@ -279,7 +280,7 @@ that define permissions and the level of access provided to any user
 assigned to that role. Roles are typically developed for similar users
 with the same access needs (e.g., HR, Sales, IT, Security).
 
-8. An organization is concerned about the risk of a car driving from the
+23. An organization is concerned about the risk of a car driving from the
 parking lot through the entrance of the building. Which of the
 following security measures would best help address this concern?
 A. Biometrics
@@ -293,7 +294,7 @@ badge systems are measures to implement physical access control
 but would not prevent a car from driving through the entrance.
 RBAC is an access control model.
 
-9. The security team is reviewing the configuration of the door that
+24. The security team is reviewing the configuration of the door that
 serves as the only entrance or exit to the datacenter. Organization
 personnel commonly access the datacenter to perform their work. In
 the event of a fire that impacts power to the door-locking mechanism,
@@ -307,7 +308,7 @@ ANS: C. The door should fail-open (also known as fail-safe). While this is
 a less secure option, it ensures the preservation of human life, which
 is the number-one priority.
 
-10. The security team of an organization is concerned about the physical
+25. The security team of an organization is concerned about the physical
 security of datacenter access. They want the datacenter entrance built
 in such a way that there are two doors with locks and the first door
 must close before the next door can be unlocked. Which of the
@@ -320,7 +321,7 @@ D. Biometric
 ANS: B. A mantrap is an area that has two doors built in such a way that
 the first door must be closed before the second door can be opened.
 
-11. Which of the following access control models allows the creator of a
+26. Which of the following access control models allows the creator of a
 resource the ability to assign permissions to other users?
 A. DAC
 B. MAC
@@ -332,11 +333,7 @@ resource, typically the creator, full control to configure which users
 can access the resource.
 
 
-
-
-
-Questions and Answers
-1. Which of the following is referred to as a physical address in
+27. Which of the following is referred to as a physical address in
 computer networking?
 A. IPv4 address
 B. IPv6 address
@@ -349,7 +346,7 @@ device’s physical hardware. Internet Protocol (IP) addresses are
 known as logical addresses. A loopback address is a special type of
 IP address.
 
-2. How many layers are there in the OSI model?
+28. How many layers are there in the OSI model?
 A. 8
 B. 7
 C. 6
@@ -359,7 +356,7 @@ ANS: B. There are seven layers in the OSI model. These Include
 Application, Presentation, Session, Transport, Network, Data, and
 Physical.
 
-3. Which of the following terms best describes a computer that provides
+29. Which of the following terms best describes a computer that provides
 content to other computers such as a website or an application?
 A. Client
 B. Server
@@ -373,7 +370,7 @@ server. An endpoint is a computing device on a network, which
 could include a server but is not the best answer. A router is a
 network device that routes traffic on a network.
 
-4. What is the name of the seventh layer of the OSI model?
+30. What is the name of the seventh layer of the OSI model?
 A. Application
 B. Session
 C. Presentation
@@ -384,7 +381,7 @@ OSI model. The order of the layers from top (Layer 7) to bottom
 (Layer 1) are Application, Presentation, Session, Transport,
 Network, Data Link, and Physical.
 
-5. Which of the following attacks are most likely to be carried out by a
+31. Which of the following attacks are most likely to be carried out by a
 botnet?
 A. Advanced persistent threat attack
 B. DDoS attack
@@ -397,7 +394,7 @@ Advanced persistent threat and backdoors are not specific types of
 attacks, but rather features of attacks. A trojan horse is a type of
 attack but unlikely to be carried out by a botnet.
 
-6. What is the best description of the difference between a phishing email and a spear phishing e-mail?
+32. What is the best description of the difference between a phishing email and a spear phishing e-mail?
 A. A phishing e-mail is sent to a specific person; a spear phishing email is sent to an entire company.
 B. A phishing e-mail is sent to random recipients; a spear phishing email is sent to specific recipients.
 C. A phishing e-mail is sent to an entire company; a spear phishing
@@ -411,7 +408,7 @@ have a specific target in mind, and you shoot the spear directly at it.
 A spear phishing e-mail is sent to a specific person or specific people
 or an organization.
 
-7. Which of the following is not a true statement about a worm?
+33. Which of the following is not a true statement about a worm?
 A. It can replicate itself.
 B. It is a type of malware.
 C. It is a type of botnet.
@@ -422,7 +419,7 @@ ANS: C. A worm is not a type of botnet. A worm can replicate itself and is
 a type of malware, but since it isn’t a virus, it does not require a host
 program to infect and serve as the delivery mechanism.
 
-8. A rainbow table attack seeks to mitigate the limitations of dictionary
+34. A rainbow table attack seeks to mitigate the limitations of dictionary
 or brute force attacks by precomputing the hash of passwords and
 storing them for later comparison.
 A. True
@@ -432,7 +429,7 @@ ANS: A. The answer is true. Dictionary and brute force attacks take a lot of
 processing time and resources, whereas rainbow table attacks do the
 processing ahead of time and store the hashes in a table or database.
 
-9. What is the primary difference between an IDS and an IPS?
+35. What is the primary difference between an IDS and an IPS?
 A. They both do the same thing.
 B. An IDS detects malicious activity, whereas an IPS prevents the
 activity from happening in the first place.
@@ -445,7 +442,7 @@ ANS: D. An IDS, which stands for intrusion detection system, detects
 malicious activity, whereas an IPS, which stands for intrusion
 prevention system, detects malicious activity and takes action on it.
 
-10. Joe is a cyber criminal who has targeted a web server for a potential
+36. Joe is a cyber criminal who has targeted a web server for a potential
 cyberattack. Joe wants to know if the server has any unpatched
 vulnerabilities he might be able to exploit. Which of the following
 actions is Joe most likely to take?
@@ -457,7 +454,7 @@ D. Send a spear phishing e-mail to the target server.
 ANS: B. The answer is to run a vulnerability scan, as that is the only one of
 the choices that will reveal vulnerabilities on the server.
 
-11. __________________ is a method of attack where a hacker enters
+37. __________________ is a method of attack where a hacker enters
 SQL commands into fields on a vulnerable web page. The commands
 are executed without proper authorization.
 A. Buffer overflow
@@ -470,7 +467,7 @@ the user, it could allow an attacker to put SQL commands in the
 field, which are then executed by the SQL database without proper
 authorization. This is called a SQL injection attack.
 
-12. Most cyber criminals would agree that _________________ are the
+38. Most cyber criminals would agree that _________________ are the
 weakest link in cybersecurity.
 A. Passwords
 B. Backdoors
@@ -482,7 +479,7 @@ cybersecurity. Despite extensive progress in technical tools and
 controls, deliberate or accidental acts by people lead to the largest
 number of and most damaging security breaches.
 
-13. A hacker uses a phishing attack to obtain a user’s credentials, access
+39. A hacker uses a phishing attack to obtain a user’s credentials, access
 their company’s database, and steal proprietary information. This is an
 example of _______________.
 A. Denial of service
@@ -493,7 +490,7 @@ D. Data exfiltration
 ANS: D. The correct answer is data exfiltration, which is the unauthorized
 transfer of data from a computer or network.
 
-14. A sophisticated cyber criminal gains access to a financial institution’s
+40. A sophisticated cyber criminal gains access to a financial institution’s
 e-mail server, installs malware, and then over a period of weeks,
 moves to other servers and systems on the company’s network,
 installing other malware and tools, finding other credentials, stealing
@@ -510,7 +507,7 @@ probing the network, finding more systems with vulnerabilities,
 exploiting them, and gaining unauthorized access to more and more
 systems and data, all the while doing things to cover their tracks.
 
-15. Mary is a network engineer who wants to install a firewall in front of
+41. Mary is a network engineer who wants to install a firewall in front of
 a database server to hide its IP address. What type of firewall should
 Mary choose?
 A. Proxy
@@ -522,7 +519,7 @@ ANS: A. A proxy firewall impersonates the system at the other end of the
 connection and hides the IP address of the devices within the
 network it is protecting.
 
-16. Antivirus software vendors use ______________ to keep up with the
+42. Antivirus software vendors use ______________ to keep up with the
 latest information about viruses and threats.
 A. Google
 B. National Vulnerability Database
@@ -533,7 +530,7 @@ ANS: C. Organizations and product vendors use threat intelligence from a
 variety of sources. By collecting and studying data about threats,
 vendors can prepare for and defend against them.
 
-17. When leveraging a third-party cloud service provider, which of the
+43. When leveraging a third-party cloud service provider, which of the
 following is always the responsibility of the provider?
 A. Data security
 B. Physical security of the datacenter
@@ -543,7 +540,7 @@ D. Endpoint protection
 ANS: B. Physical security of the datacenter is always the responsibility of
 the cloud service provider.
 
-18. An organization is utilizing a public cloud from a cloud service whose
+44. An organization is utilizing a public cloud from a cloud service whose
 service offering allows the organization to use a framework to build
 and deploy custom applications. Which of the following cloud service
 models is being utilized?
@@ -555,7 +552,7 @@ ANS: B. Platform as a service (PaaS) provides cloud service customers
 with development or application platforms to build and deploy
 applications.
 
-19. An organization is using a cloud service provider to host their
+45. An organization is using a cloud service provider to host their
 infrastructure. The cloud service provider manages the underlying
 infrastructure, and the organization manages the platforms and
 software (such as the OS, development tools, and applications).
@@ -573,7 +570,7 @@ cloud service customer manages the platforms and software (such as
 OS, development tools, and applications) that run on the
 infrastructure.
 
-20. An organization has built out a cloud environment in their own
+46. An organization has built out a cloud environment in their own
 datacenter for exclusive use by their employees to allow other teams
 to provision and manage virtual resources. Which of the following
 cloud deployment models is this an example of?
@@ -585,7 +582,7 @@ ANS: B. A private cloud deployment model consists of computing
 infrastructure and resources that are dedicated for use by a single
 organization.
 
-21. An organization is hosting applications in a private cloud environment
+47. An organization is hosting applications in a private cloud environment
 and also making use of Amazon Web Services (AWS) to load-balance
 the traffic for applications if there is a spike in demand. Which of the
 following cloud deployment models is this an example of?
@@ -597,7 +594,7 @@ D. Hybrid
 ANS: D. A hybrid cloud deployment model is a mix of the other models
 (such as a public and private model).
 
-22. An organization is utilizing Google Mail (Gmail) as their e-mail
+48. An organization is utilizing Google Mail (Gmail) as their e-mail
 service provider. Which of the following types of cloud service
 models is being utilized?
 A. SaaS
@@ -610,13 +607,7 @@ application hosted by the cloud service provider (such as an e-mail
 service).
 
 
-
-
-
-
-
-Questions and Answers
-1. Alice sends Bob a message encrypted with a private key. Bob
+49. Alice sends Bob a message encrypted with a private key. Bob
 decrypts the message with the same private key. Which of the
 following types of encryption is this an example of?
 A. Asymmetric
@@ -629,7 +620,7 @@ decryption. This means that the sender and receiver of a message
 need to have a copy of the same key in order to encrypt/decrypt the
 message.
 
-2. Which of the following is not a secure method of data deletion?
+50. Which of the following is not a secure method of data deletion?
 A. Emptying the recycle bin on your computer desktop
 B. Physical destruction of a hard drive
 C. Zeroization
@@ -641,7 +632,7 @@ the data is not actually securely deleted from the hard drive. These
 actions simply tell the operating system that the location on the hard
 drive is free for use.
 
-3. Which of the following can be used to create message digests?
+51. Which of the following can be used to create message digests?
 A. Symmetric encryption algorithms
 B. Asymmetric encryption algorithms
 C. Hash functions
@@ -650,7 +641,7 @@ D. All of the above
 ANS: C. Hash functions transform information into fixed-length output
 known as a hash value, message digest, or fingerprint.
 
-4. A security administrator is looking for ways to automate the
+52. A security administrator is looking for ways to automate the
 monitoring of logs throughout the environment. Which of the
 following solutions would help provide automated monitoring
 capability?
@@ -666,7 +657,7 @@ ingests logs from various sources, serves as a central secure log
 repository, and contains rules that alert on suspicious events
 identified in logs.
 
-5. Which of the following types of encryption uses two keys: one for
+53. Which of the following types of encryption uses two keys: one for
 encryption and a separate key for decryption?
 A. Asymmetric
 B. Symmetric
@@ -676,7 +667,7 @@ D. None of the above
 ANS: A. Asymmetric encryption uses two keys: a public key (for
 encryption) and a private key (for decryption).
 
-6. As the new CISO of his organization, Joe decided to initiate a
+54. As the new CISO of his organization, Joe decided to initiate a
 comprehensive set of scans. The scans reported that nearly all of his
 endpoints have known operating system vulnerabilities. What is the
 most likely root cause of this situation?
@@ -693,7 +684,7 @@ the vendors. Poorly configured antimalware software or a brute force
 attack would not cause this, and an APT might be the result of this
 situation but not the cause of it.
 
-7. A network administrator found that one of the firewalls was no longer
+55. A network administrator found that one of the firewalls was no longer
 configured in accordance with recommended settings from DISA as it
 once was. What is the most likely reason for this?
 A. The settings from DISA were incorrect.
@@ -706,7 +697,7 @@ ANS: B. The best answer is that it is most likely that someone changed a
 setting without the proper approval and documentation; therefore,
 CM procedures were not followed.
 
-8. Mary isn’t sure if she is allowed to use her company-owned laptop to
+56. Mary isn’t sure if she is allowed to use her company-owned laptop to
 send messages to her friend on Facebook. To find out if she can,
 which policy should she refer to?
 A. AUP
@@ -718,7 +709,7 @@ ANS: A. Of the choices provided, the AUP is the one most likely to
 provide guidance concerning whether or not Mary can use the
 company-owned laptop for nonbusiness use.
 
-9. Of the policies listed, which one is most likely to provide guidance on
+57. Of the policies listed, which one is most likely to provide guidance on
 connecting a home computer to the work network via VPN?
 A. AUP
 B. BYOD
@@ -730,7 +721,7 @@ BYOD policy is used by organizations that want to allow their
 employees to use their personally owned devices to connect to the
 corporate network.
 
-10. An employee notices a poster in the lunchroom reminding her about
+58. An employee notices a poster in the lunchroom reminding her about
 not writing down her passwords but instead to use the companyprovided password vault software. What is this an example of?
 A. Security awareness
 B. Security training
@@ -739,7 +730,7 @@ D. Security testing
 ANS: A. The use of posters and reminders in the workplace is an example
 of security awareness.
 
-11. What is the best reason to provide social engineering training to
+59. What is the best reason to provide social engineering training to
 employees?
 A. To show people how to perform a social engineering attack
 B. So employees can report security violations to management
@@ -751,10 +742,7 @@ should look out for as a way to defend against social engineering
 attacks.
 
 
-
-
-Questions and Answers
-1. During which phase of the incident response process is the incident
+60. During which phase of the incident response process is the incident
 response plan developed and documented?
 A. Preparation
 B. Containment, eradication, and recovery
@@ -764,7 +752,7 @@ D. Post-incident activity
 ANS: A. The incident response plan is developed and documented during
 the preparation phase of the incident response process.
 
-2. During which phase of the incident response process does the lessonslearned assessment take place?
+61. During which phase of the incident response process does the lessonslearned assessment take place?
 A. Detection and analysis
 B. Containment, eradication, and recovery
 C. Preparation
@@ -773,7 +761,7 @@ D. Post-incident activity
 ANS: D. The lessons-learned assessment occurs during the post-incident
 activity phase of the incident response process.
 
-3. A security analyst is reviewing log files from a system to determine if
+62. A security analyst is reviewing log files from a system to determine if
 a security incident has occurred. This is an example of an activity that
 takes place in which of the following incident response process
 phases?
@@ -786,7 +774,7 @@ ANS: B. Reviewing logs to determine if a security incident has occurred is
 an example of an activity that takes place in the detection and
 analysis phase of the incident response process.
 
-4. In which phase of the incident response process would a security
+63. In which phase of the incident response process would a security
 analyst recover a system from a backup?
 A. Preparation
 B. Detection and analysis
@@ -797,7 +785,7 @@ ANS: D. Recovering a system from backup would take place during the
 containment, eradication, and recovery phase of the incident
 response process.
 
-5. What phase comes after the detection and analysis phase in the
+64. What phase comes after the detection and analysis phase in the
 incident response process?
 A. Containment, eradication, and recovery.
 B. Preparation.
@@ -809,7 +797,7 @@ detection and analysis phase of the incident response process. The
 process steps are Preparation -> Detection and Analysis ->
 Containment, Eradication, and Recovery -> Post-Incident Activity.
 
-6. Carol is tasked with creating a business continuity plan for her
+65. Carol is tasked with creating a business continuity plan for her
 organization. What should she do to determine which of her
 organization’s business functions should be restored in the event of an
 incident?
@@ -821,7 +809,7 @@ D. Conduct a business impact analysis.
 ANS: D. The purpose of a business impact analysis is to determine which
 business functions should be restored after an incident.
 
-7. Of the following which is the most likely reason(s) a business
+67. Of the following which is the most likely reason(s) a business
 continuity program might fail?
 A. Failure to test the plan and procedures
 B. Failure to document activation procedures
@@ -833,7 +821,7 @@ ANS: D. Failure to test the plan and procedures, document activation
 procedures, and address likely threats are all reasons the business
 continuity program may fail.
 
-8. Alice is responsible for designing her organization’s datacenter to
+68. Alice is responsible for designing her organization’s datacenter to
 provide resiliency in the event of a disaster. If a disaster occurs, she
 wants to have the new datacenter up and running within a few days,
 but she does not want to incur the cost of building a full datacenter
@@ -849,3 +837,23 @@ suitable for supporting IT operations but without the computing
 equipment itself. The warm site has power, HVAC, physical
 infrastructure, and possibly telecommunications and peripheral
 equipment.
+
+69. Which of the following is the best example of a hot site?
+A. A facility that is configured with equipment suitable for supporting IT operations but without the computing equipment itself
+B. A facility that is configured with equipment suitable for supporting IT operations and has the computing equipment installed and
+configured
+C. A facility that is configured with equipment suitable for supporting IT operations and has the computing equipment installed but not
+configured
+D. A facility that is configured with equipment suitable for supporting IT operations and has the computing equipment installed and configured, but the equipment is not powered on
+
+ANS: B. A hot site is a facility that is configured with equipment suitable
+for supporting IT operations and has the computing equipment
+
+70. Which of the following is the best example of a cold site?
+A. A facility that is configured with equipment suitable for supporting IT operations but without the computing equipment itself
+B. A facility that is configured with equipment suitable for supporting IT operations and has the computing equipment installed and configured
+C. A facility that is configured with equipment suitable for supporting IT operations and has the computing equipment installed but not
+configured
+D. A facility that is configured with equipment suitable for supporting IT operations and has the computing equipment installed and configured, but the equipment is not powered on
+
+ANS: A. A cold site is a facility that is configured with equipment suitable
